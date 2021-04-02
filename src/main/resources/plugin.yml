@@ -1,0 +1,10 @@
+main: net.mcreator.chance.ChanceMod
+name: Chance
+version: 1.0.0
+authors: [USER, MCreator]
+website: https://mcreator.net
+api-version: 1.16
+
+commands:
+  chance:
+    permission: chance.use
